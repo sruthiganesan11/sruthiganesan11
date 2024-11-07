@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sruthi</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="30" height="30">, I'm Sruthi</h1>
 <h3 align="center">I'm a passionate Junior Java Full Stack Developer with a love for crafting efficient and impactful back-end solutions. I enjoy working with technologies like Java, Spring Boot, and React to build applications that make a difference. With a focus on continuous learning and problem-solving, I'm excited to bring ideas to life and take on new challenges!</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 - 🌍  I'm from in India
 
