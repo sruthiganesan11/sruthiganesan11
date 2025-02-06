@@ -12,7 +12,7 @@
 
 - ✉️ You can contact me at **sruthiganesan11@gmail.com**
 
-- 📄For more details, view my resume here [https://drive.google.com/file/d/1n8wilamkCFMMJCplnKdBW-ChMTCoCH4c/view?usp=drive_link](https://drive.google.com/file/d/1n8wilamkCFMMJCplnKdBW-ChMTCoCH4c/view?usp=drive_link)
+- 📄For more details, view my resume here [[https://drive.google.com/file/d/1n8wilamkCFMMJCplnKdBW-ChMTCoCH4c/view?usp=drive_link](https://drive.google.com/file/d/1n8wilamkCFMMJCplnKdBW-ChMTCoCH4c/view?usp=drive_link)](https://drive.google.com/file/d/1mYem2qN0jFAPD-Yj0NBSTAcg72itx5u5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
